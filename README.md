@@ -20,12 +20,11 @@ Frontend: HTML/CSS + Jinja templates
 # Getting Started (Run Locally)
 1. Need to have Python 3.9+ installed
 2. Clone the repo
-3. ```bash
-4. git clone https://github.com/Hj4704/TaskMaster-Project.git
-5. cd <TaskMaster-Project>
-6. python3 -m venv .venv
-7. source .venv/bin/activate
-8. pip install -r requirements.txt
-9. python myapp.py
-10. Open in browser go to: http://127.0.0.1:5000
+3. git clone https://github.com/Hj4704/TaskMaster-Project.git
+4. cd <TaskMaster-Project>
+5. python3 -m venv .venv
+6. source .venv/bin/activate
+7. pip install -r requirements.txt
+8. python myapp.py
+9. Open in browser go to: http://127.0.0.1:5000
 

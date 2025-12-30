@@ -21,7 +21,7 @@ Frontend: HTML/CSS + Jinja templates
 1. Need to have Python 3.9+ installed
 2. Clone the repo
 3. git clone https://github.com/Hj4704/TaskMaster-Project.git
-4. cd <TaskMaster-Project>
+4. cd TaskMaster-Project
 5. python3 -m venv .venv
 6. source .venv/bin/activate
 7. pip install -r requirements.txt

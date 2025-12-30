@@ -13,9 +13,9 @@ Not hosted yet. Run locally using the steps below.
 - Persistent storage (allows users to come back)
 
 # Tech Stack
-Backend: Python, Flask
-Database: SQLAlchemy ORM, SQLite (local)
-Frontend: HTML/CSS + Jinja templates
+- Backend: Python, Flask
+- Database: SQLAlchemy ORM, SQLite (local)
+- Frontend: HTML/CSS + Jinja templates
 
 # Getting Started (Run Locally)
 1. Need to have Python 3.9+ installed
